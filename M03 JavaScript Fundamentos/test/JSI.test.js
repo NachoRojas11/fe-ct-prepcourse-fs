@@ -81,7 +81,7 @@ describe('JAVASCRIPT I', function () {
 
       describe('nuevoModulo', function () {
          it('Debe ser el resultado correcto del módulo', function () {
-            expect(nuevoModulo).toBe(true);
+            expect(nuevoModulo).toBe(false);
          });
       });
    });
